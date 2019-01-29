@@ -1,0 +1,29 @@
+h1{
+    color: blue;
+}
+
+img{
+    max-width: 100%;
+}
+
+.navbar{
+    background-color:rgb(150, 142, 70) !important;
+}
+
+.navbar-expand-md{
+    background-color:white !important;
+
+}
+
+.caurosel{
+    margin-bottom: 50px;
+}
+
+footer{
+    background-color:rgb(139, 14, 35) !important;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+    
+}
