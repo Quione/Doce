@@ -10,7 +10,7 @@
                             <?php the_title(); ?>
                         </a>
                     </h1>
-                    <p>()<?php the_content(); ?></p>
+                    <p><?php the_content(); ?></p>
 
                     <?php endwhile; else : ?>
                         <p><?php _e('Nenhum post encontrado!'); ?></p>
