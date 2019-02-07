@@ -26,7 +26,7 @@
 <nav class="navbar navbar-light bg-light" id="navtop">
   <a class="navbar-brand" href="#">
     <img src="/docs/4.2/assets/brand/bootstrap-solid.svg" width="30" height="30" class="d-inline-block align-top" alt="">
-    <i class="fab fa-facebook-square"></i> <i class="fab fa-instagram"></i> <i class="fab fa-twitter"></i>
+    <i href="https://pt-br.facebook.com/login/" class="fab fa-facebook-square" > </i> <i class="fab fa-instagram"></i> <i class="fab fa-twitter"></i>
   </a>
 </nav>
 	
